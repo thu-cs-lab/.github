@@ -8,9 +8,9 @@ This is the home of THU CS Lab. We currently host the labs, platforms & tools fo
   - [Labs](https://lab.cs.tsinghua.edu.cn/jie/): [JieLabs-Web](https://github.com/thu-cs-lab/JieLabs-Web) (frontend)
 - Digital Logic Circuit (数字逻辑电路, 30240343) & Digital Logic Design (数字逻辑设计, 30240353):
   - [Docs](https://lab.cs.tsinghua.edu.cn/digital-design/doc/): [Digital-Design-Docs](https://github.com/thu-cs-lab/Digital-Design-Docs)
+  - Tools: [MifConverter](https://github.com/thu-cs-lab/MifConverter)
 - Introduction to High Performance Computing (高性能计算导论, 30240192):
   - [Docs](https://lab.cs.tsinghua.edu.cn/hpc/doc/): [HPC-Lab-Docs](https://github.com/thu-cs-lab/HPC-Lab-Docs)
-  - Tools: [MifConverter](https://github.com/thu-cs-lab/MifConverter)
 - Computer Organization (计算机组成原理, 40240354):
   - [Docs](https://lab.cs.tsinghua.edu.cn/cod-lab-docs/)
   - [Labs](https://lab.cs.tsinghua.edu.cn/thinpad/): [thinpad_top](https://github.com/thu-cs-lab/thinpad_top) (project template), [supervisor-rv](https://github.com/thu-cs-lab/supervisor-rv) (supervisor software)
