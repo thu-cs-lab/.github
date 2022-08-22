@@ -3,7 +3,8 @@
 This is the home of THU CS Lab. We currently host the labs, platforms & tools for the following courses:
 
 - Programing and Training (程序设计训练, 30240522):
-  - [Docs](https://lab.cs.tsinghua.edu.cn/rust/) [Playground](https://lab.cs.tsinghua.edu.cn/rust/play/): [rust-playground](https://github.com/thu-cs-lab/rust-playground) (modified, self-deployed Rust playground)
+  - [Docs](https://lab.cs.tsinghua.edu.cn/rust/)
+  - [Playground](https://lab.cs.tsinghua.edu.cn/rust/play/): [rust-playground](https://github.com/thu-cs-lab/rust-playground) (modified, self-deployed Rust playground)
 - Digital Logic Experimentation (数字逻辑实验, 30240551):
   - [Labs](https://lab.cs.tsinghua.edu.cn/jie/): [JieLabs-Web](https://github.com/thu-cs-lab/JieLabs-Web) (frontend)
 - Digital Logic Circuit (数字逻辑电路, 30240343) & Digital Logic Design (数字逻辑设计, 30240353):
