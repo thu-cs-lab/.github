@@ -21,6 +21,8 @@ This is the home of THU CS Lab. We currently host the labs, platforms & tools fo
   - Others: [tanlabs-speed-tester](https://github.com/thu-cs-lab/tanlabs-speed-tester), [angry-bird](https://github.com/thu-cs-lab/angry-bird)
 - Computer Networks Special Training (计算机网络专题训练, 40240882):
   - [Docs](https://lab.cs.tsinghua.edu.cn/tcp/doc/): [TCP-Lab-Docs](https://github.com/thu-cs-lab/TCP-Lab-Docs)
+- Computer Architecture (计算机系统结构, 40240443):
+  - [Docs](https://lab.cs.tsinghua.edu.cn/ca-lab-docs/)
 
 Other repositories:
 
