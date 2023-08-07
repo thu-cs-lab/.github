@@ -23,6 +23,8 @@ This is the home of THU CS Lab. We currently host the labs, platforms & tools fo
   - [Docs](https://lab.cs.tsinghua.edu.cn/tcp/doc/): [TCP-Lab-Docs](https://github.com/thu-cs-lab/TCP-Lab-Docs)
 - Computer Architecture (计算机系统结构, 40240443):
   - [Docs](https://lab.cs.tsinghua.edu.cn/ca-lab-docs/)
+- Software Engineering (软件工程, 30240163):
+  - [Docs](https://lab.cs.tsinghua.edu.cn/software-engineering/)
 
 Other repositories:
 
