@@ -18,7 +18,7 @@ This is the home of THU CS Lab. We currently host the labs, platforms & tools fo
 - Theory of Computer Network (计算机网络原理，40240513):
   - [Docs](https://lab.cs.tsinghua.edu.cn/router/doc/): [Router-Lab-Docs](https://github.com/thu-cs-lab/Router-Lab-Docs), [Router-Lab-Joint](https://github.com/thu-cs-lab/Router-Lab-Joint) (for joint lab, obsolete)
   - [Labs](https://lab.cs.tsinghua.edu.cn/tan/): [Router-Lab](https://github.com/thu-cs-lab/Router-Lab) (lab template), [tanlabs](https://github.com/thu-cs-lab/tanlabs) (FPGA project template)
-  - Others: [tanlabs-speed-tester](https://github.com/thu-cs-lab/tanlabs-speed-tester), [angry-bird](https://github.com/thu-cs-lab/angry-bird)
+  - Others: [tanlabs-speed-tester](https://github.com/thu-cs-lab/tanlabs-speed-tester), [angry-bird](https://github.com/thu-cs-lab/angry-bird), [data-link-protocols](https://github.com/thu-cs-lab/data-link-protocols)
 - Computer Networks Special Training (计算机网络专题训练，40240882):
   - [Docs](https://lab.cs.tsinghua.edu.cn/tcp/doc/): [TCP-Lab-Docs](https://github.com/thu-cs-lab/TCP-Lab-Docs)
 - Computer Architecture (计算机系统结构，40240443):
